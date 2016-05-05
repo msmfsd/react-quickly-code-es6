@@ -7,11 +7,11 @@ import ReactDOM from 'react-dom'
 export default class Content extends Component {
 	constructor (props) {
 		super(props)
-		this.state = { val:'' }
+		this.state = { }
 	}
   render () {
     return (
-			<p></p>
+			<p>Replace code here with one of the example js files eg. code-form-refs.js</p>
 		)
   }
 }
