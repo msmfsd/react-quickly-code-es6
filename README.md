@@ -2,7 +2,7 @@
 
 Here are some code examples from the excellent Manning e-book React Quickly MEAP v3.
 
-#### They have been refactored by me to pure ES6 classes using .js files instead of .jsx.
+###### They have been refactored by me to pure ES6 classes using .js files instead of .jsx.
 
 The actual book can be found here: <https://www.manning.com/books/react-quickly>
 
